@@ -1,4 +1,6 @@
-### Hi there 👋
+- 👋 Hi there!
+- 🔭 I’m currently working on some cool bioinformatics pipeline!
+- 📫 Get in touch with me!
 
 <!--
 **mircomacchi/mircomacchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
