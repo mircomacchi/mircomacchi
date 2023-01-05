@@ -1,5 +1,5 @@
 - 👋 Hi there!
-- 🔭 I’m currently working on some cool bioinformatics pipeline that will soon the available!
+- 🔭 I’m currently working on some cool bioinformatics pipeline, stay tuned!
 - 📫 Get in touch with me!
 
 <!--
