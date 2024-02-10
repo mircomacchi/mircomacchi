@@ -3,7 +3,7 @@
 - 📫 Get in touch with me!
 
 
-I plan to use this website as a tool for collaboration and knowledge-sharing among developers. I will use it to contribute code and software implementations, as well as to review and provide feedback on the contributions of others. Additionally, I will use the GitHub's resources to stay up to date on industry best practices and to continue my professional development.
+A space for collaboration and knowledge-sharing among developers. I am contributing code and software implementations, as well as reviewing and providing feedback on the contributions of others. 
 
 <!--
 **mircomacchi/mircomacchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
